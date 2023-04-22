@@ -1,0 +1,86 @@
+{
+  "validation": {
+    "required": "Kolom {value} wajib diisi.",
+    "too-short": "Kolom {value} terlalu pendek",
+    "too-long": "Kolom {value} terlalu panjang",
+    "alpha-spaces": "Kolom {value} hanya boleh berisi karakter abjad dan spasi.",
+    "valid-email": "Kolom {value} harus berisi email yang valid",
+    "age-low": "Kolom {value} terlalu muda",
+    "age-high": "Kolom  {value} terlalu tua",
+    "exclude": "Anda tidak diizinkan menggunakan nilai ini untuk bidang {value}",
+    "country-exclude": "Karena pembatasan, kami tidak menerima pengguna dari lokasi ini",
+    "password-miss": "Kata sandi tidak cocok",
+    "accept-tos": "Anda harus menyetujui Persyaratan Layanan",
+    "name-invalid": "Kolom {value} tidak valid"
+  },
+  "auth": {
+    "your-account": "Akun anda",
+    "login": "Masuk",
+    "register": "Daftar",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "name": "Nama",
+    "age": "Umur",
+    "country": "Negara",
+    "confirm-password": "Konfirmasi Password",
+    "enter-confirm-password": "Masukkan Konfirmasi Password",
+    "enter-name": "Masukkan Nama",
+    "enter-age": "Masukkan Umur",
+    "enter-email": "Masukkan Email",
+    "enter-password": "Masukkan Password",
+    "accept": "Saya menerima {0}",
+    "tos": "Ketentuan Layanan"
+  },
+  "home": {
+    "listen": "Dengarkan semua musik di seluruh dunia",
+    "description": "Buat daftar putar musik terbaik Anda, lihat dan dengarkan setiap daftar putar musik dari semua orang di dunia",
+    "song-list": "Daftar Lagu"
+  },
+  "about": {
+    "title": "MUSICvPINIA adalah web app untuk mendengarkan musik, web ini open source dan bisa di gunakan oleh siapapun, dibuat sebagai sarana pembelajaran untuk saya dan orang lain agar lebih memahami tentang Vuejs3",
+    "see-code": "Lihat Kode"
+  },
+  "header": {
+    "about": "Tentang",
+    "manage": "Kelola",
+    "logout": "Keluar",
+    "login-or-register": "Masuk/Daftar"
+  },
+  "manage": {
+    "my-song": "Daftar lagu saya"
+  },
+  "upload": {
+    "upload-title": "Unggah",
+    "drop": "Jatuhkan file anda di sini"
+  },
+  "composition-items": {
+    "song-title": "Judul lagu",
+    "enter-song-title": "Masukkan Judul Lagu",
+    "genre": "Genre",
+    "enter-genre": "Masukkan Genre",
+    "submit-btn": "Kirim",
+    "back-btn": "Kembali"
+  },
+  "song": {
+    "commentCount": "Tidak ada komen | 1 komen | {count} komen",
+    "option": {
+      "latest": "Terbaru",
+      "oldest": "Terlama"
+    }
+  },
+  "alert": {
+    "song": {
+      "wait-add-comment": "Harap tunggu! Komentar Anda sedang dikirim",
+      "success-add-comment": "Komentar ditambahkan!"
+    },
+    "please-wait": "Harap tunggu data akan diperbarui!",
+    "error-upload": "Ada yang salah, harap coba lagi nanti!",
+    "success-upload": "Sukses memperbarui data!",
+    "wait-register": "Harap tunggu! Akun Anda sedang dibuat.",
+    "error-register": "Terjadi kesalahan tak terduga. Coba lagi nanti.",
+    "success-register": "Sukses! Akun anda telah dibuat.",
+    "wait-login": "Masuk...",
+    "error-login": "Detail login tidak valid.",
+    "success-login": "Sukses! Masuk."
+  }
+}

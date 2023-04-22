@@ -1,0 +1,64 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Home snapshot > Render home component correctly 1`] = `
+<main
+  class="bg-gray-50 h-full"
+>
+  <!-- Introduction -->
+  <section
+    class="py-14 text-white text-center relative"
+  >
+    <div
+      class="absolute inset-0 w-full h-full bg-contain introduction-bg"
+    />
+    <div
+      class="container mx-auto"
+    >
+      <div
+        class="text-black main-header-content"
+      >
+        <h1
+          class="font-bold text-5xl mb-5"
+        >
+          home.listen
+        </h1>
+        <p
+          class="w-full md:w-8/12 mx-auto py-2"
+        >
+          home.description
+        </p>
+      </div>
+    </div>
+  </section>
+  <!-- Main Content -->
+  <section
+    class="container mx-auto pt-10"
+  >
+    <div
+      class="rounded border-t border-gray-400 relative flex flex-col"
+    >
+      <div
+        class="px-6 pt-6 pb-5 font-bold border-b border-gray-400 text-center text-xl tracking-widest"
+      >
+        <span
+          class="card-title"
+        >
+          home.song-list
+        </span>
+        <!-- Icon -->
+        <i
+          class="fa fa-headphones-alt float-right text-green-400 text-xl"
+        />
+      </div>
+      <!-- Playlist -->
+      <ol
+        id="playlist"
+      >
+        
+        
+      </ol>
+      <!-- .. end Playlist -->
+    </div>
+  </section>
+</main>
+`;

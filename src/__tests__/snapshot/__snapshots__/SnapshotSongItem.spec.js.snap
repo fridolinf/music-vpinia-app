@@ -1,0 +1,27 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SongItem snapshot > Render correctly 1`] = `
+<li
+  class="flex justify-between items-center p-3 pl-6 cursor-pointer transition duration-300 example border-gray-400 border-b song-id-undefined"
+  id="song-id-undefined"
+>
+  <div>
+    <router-link-stub
+      class="font-bold block text-black song-item"
+      custom="false"
+      to="[object Object]"
+    />
+    <span
+      class="text-gray-500 text-sm"
+    />
+  </div>
+  <div
+    class="text-gray-600 text-lg"
+  >
+    <router-link-stub
+      custom="true"
+      to="[object Object]"
+    />
+  </div>
+</li>
+`;

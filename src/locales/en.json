@@ -1,0 +1,86 @@
+{
+  "validation": {
+    "required": "The field {value} is required.",
+    "too-short": "The field {value} is too short",
+    "too-long": "The field {value} is too long",
+    "alpha-spaces": "The field {value} may only contain alphabetical characters and spaces.",
+    "valid-email": "The field {value} must be valid email",
+    "age-low": "The field {value} is to low",
+    "age-high": "The field  {value} is to high",
+    "exclude": "You are not allowed to use this value for the field {value}",
+    "country-exclude": "Due to restrictions, we do not accept users from this location",
+    "password-miss": "The password is don't match",
+    "accept-tos": "You must accept the Terms of Service",
+    "name-invalid": "The field {value} is invalid"
+  },
+  "auth": {
+    "your-account": "Your Account",
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "age": "Age",
+    "country": "Country",
+    "confirm-password": "Confirm Password",
+    "enter-confirm-password": "Enter Confirm Password",
+    "enter-name": "Enter Name",
+    "enter-age": "Enter Age",
+    "enter-email": "Enter Email",
+    "enter-password": "Enter Password",
+    "accept": "I accept {0}",
+    "tos": "Terms of Service"
+  },
+  "home": {
+    "listen": "Listen to all music around the world!",
+    "description": "Create your best music playlist see and listen to every music playlist from all people in the world",
+    "song-list": "List Song"
+  },
+  "song": {
+    "commentCount": "No comments | 1 comments | {count} comments",
+    "option": {
+      "latest": "Latest",
+      "oldest": "Oldest"
+    }
+  },
+  "about": {
+    "title": "MUSICvPINIA is a web app for listening to music, this web is open source and can be used by anyone, it was created as a learning tool for me and others to understand more about Vuejs3",
+    "see-code": "See Code"
+  },
+  "header": {
+    "about": "About",
+    "manage": "Manage",
+    "logout": "Logout",
+    "login-or-register": "Login/Register"
+  },
+  "manage": {
+    "my-song": "My Songs"
+  },
+  "upload": {
+    "upload-title": "Upload",
+    "drop": "Drop your files here"
+  },
+  "composition-items": {
+    "song-title": "Song title",
+    "enter-song-title": "Enter Song Title",
+    "genre": "Genre",
+    "enter-genre": "Enter Genre",
+    "submit-btn": "Submit",
+    "back-btn": "Go Back"
+  },
+  "alert": {
+    "song": {
+      "wait-add-comment": "Please wait! Your comment is being submitted",
+      "success-add-comment": "Comment added!"
+    },
+    "please-wait": "Please wait data will be updated!",
+    "error-upload": "Something wrong please try again later!",
+    "success-upload": "Success update data!",
+    "wait-register": "Please wait! Your account is being created",
+    "error-register": "An unexpected error occurred. Please try again later.",
+    "success-register": "Success! Your account has been created.",
+    "wait-login": "Logging in.",
+    "error-login": "Invalid login details.",
+    "success-login": "Success! Login."
+  }
+}

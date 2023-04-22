@@ -4,11 +4,7 @@
       {{ $t('about.title') }}
     </p>
     <div class="flex justify-center">
-      <a
-        target="_blank"
-        href="window.open('https://github.com/fridolinf/music-vpinia')"
-        id="git-href"
-      >
+      <a target="_blank" href="https://github.com/fridolinf/music-vpinia-app" id="git-href">
         <p id="github-link" class="mt-10 hover:text-orange-500 hover:font-semibold cursor-pointer">
           {{ $t('about.see-code') }}
         </p>

@@ -47,7 +47,7 @@ export default {
   },
   async created() {
     try {
-      const q = query(collection(db, 'songs'), where('uid', '===', auth.currentUser.uid))
+      const q = query(collection(db, 'songs'), where('uid', '==', auth.currentUser.uid))
       const querySnapshot = await getDocs(q)
       querySnapshot.forEach(this.addSong)
     } catch (error) {

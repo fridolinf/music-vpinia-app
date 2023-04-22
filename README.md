@@ -7,7 +7,7 @@
 <h2>✨Features</h2>
 
 <ul>
-<li>CRUD song</li>
+<li>CRUD data with <b>Firebase 9</b> and <b>Pinia</b></li>
 <li>Authenticate and Authorization</li>
 <li>Infinity scroll</li>
 <li>Example unit test with <b>Vitest</b></li>
@@ -22,7 +22,7 @@ and more...
 
 <h2>🚀 Demo</h2>
 
-[https://music-vpinia-99e1h5owy-fridolinf.vercel.app/](https://music-vpinia-99e1h5owy-fridolinf.vercel.app/)
+[https://music-vpinia-p7dkderyd-fridolinf.vercel.app/](https://music-vpinia-p7dkderyd-fridolinf.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 

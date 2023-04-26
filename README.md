@@ -26,8 +26,6 @@ and more...
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/uc?id=1qdIyrEmGxn7MrYaTjQfFIbZXvzrjY3MV" alt="project-screenshot" width="1000" height="400/">
-
 <img src="https://drive.google.com/uc?id=1aaQowOuqAXAwlTv_ibfBtOwmPFePJIs9" alt="project-screenshot" width="1000" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
